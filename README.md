@@ -1,2 +1,4 @@
-# Cross-Entropy
-https://gist.github.com/yusugomori/4462221
+https://en.wikipedia.org/wiki/Cross_entropy
+
+in this example, I used Cross_entropy as a cost function 
+I have implimented with numpy
